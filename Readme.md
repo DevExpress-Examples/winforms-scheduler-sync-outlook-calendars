@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/SyncWithOutlook/Form1.cs) (VB: [Form1.vb](./VB/SyncWithOutlook/Form1.vb))
+* [OutlookSynchronizerHelper.cs](./CS/SyncWithOutlook/OutlookSynchronizerHelper.cs) (VB: [OutlookSynchronizerHelper.vb](./VB/SyncWithOutlook/OutlookSynchronizerHelper.vb))
+<!-- default file list end -->
 # How to implement two-way synchronization between Scheduler and Outlook calendars
 
 
